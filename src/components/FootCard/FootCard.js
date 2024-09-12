@@ -3,6 +3,7 @@ import "./FootCard.css"
 import VegIcon from "./icons8-veg-48.png"
 import nonvegIcon from "./icons8-non-veg-48.png"
 
+
 function FootCard({imgUrl,title,description,isveg}) {
   
   return (
