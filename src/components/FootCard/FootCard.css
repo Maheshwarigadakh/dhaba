@@ -1,12 +1,18 @@
-.foot-card{
+*{
+    margin: 0;
+    padding: 0;
+
+}.foot-card{
     border: 1px solid black;
-    box-shadow: 0.5px 0.5px 10px  black ;
+    box-shadow: 0.5px 0.5px 10px  black;
     margin: 10px;
     display: block;
-    height: 350px;
+    height: 330px;
     width: 300px;
     padding: 2px 10px;
     border-radius: 10px;
+    color: #000;
+    background-color: #fff;
     cursor: pointer;
     position: relative;
 }
@@ -16,9 +22,25 @@
     
 }
 
+.brandname{
+    text-align: center;
+    display: block;
+    font-size: 50px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    background-color: rgb(49, 167, 226);
+}
+.subBrandName{
+ text-align: center;
+ font-size: 20px;
+ margin: 10px auto;
+ color: black;
+}
+
 .FC-title{
     text-align: center;
     margin: 0;
+    color: #000;
 }
 .FC-icon{
     position: absolute;
@@ -28,17 +50,19 @@
     background-color: #fff;
 }
 .FC-img{
-    height: 170px;
+    height: 200px;
     width: 100%;
     object-fit: cover;
     border-radius: 12px;
 }
 .FC-btn{
+
     background-color: yellow;
     border-radius: 12px;
     display: block;
     margin: 2px auto;
     padding: 5px 20px;
+   
     cursor: pointer;
 }
 .FC-btn:hover{
