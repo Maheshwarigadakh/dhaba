@@ -1,5 +1,5 @@
 const TITLE ="Bappa Gallary Shop"
-const SUBTITLE = "Best gallery shop in nashik"
+const SUBTITLE = "Best gallery shop in Maharastra"
 
 const THEME ={
     main:"pink",
@@ -12,59 +12,59 @@ const THEME ={
 const PRODUCTS = [
     {
       imgUrl: "https://rukminim2.flixcart.com/image/850/1000/poster/t/f/h/large-ganpati-3541-lord-ganpati-poster-original-imaerwcuuhgezqzz.jpeg?q=90&crop=false",
-      title: "kaju kari",
-      description: "yummy to test",
+      title: "Satara Bappa",
+      description: "Raja-Manacha Ganapati",
       isveg: true,
-      price: 100
+      price: 9100
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEPjJKXjc2VZhVaZsn_hLeEUlqDSGM2rFkw&s",
-      title: "Chikan Biryani",
-      description: "Delicious 'alu paratha'made with fresh vegies",
+      title: "Thane Bappa",
+      description: "Vighnharta -Manacha Ganapati",
       isveg: false,
-      price: 150
+      price: 9285
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7nPvFe-frb3zoyKw9BAQwJKbS33Dsi5mmA&s",
-      title: "Panner Bhaji",
-      description: "yummy to test delicious",
+      title: "Yevala Bappa",
+      description: "Lambodar -Manacha Ganapati",
       isveg: true,
-      price: 160
+      price: 7160
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEPjJKXjc2VZhVaZsn_hLeEUlqDSGM2rFkw&s",
-      title: "shevbhaji ",
-      description: "Delicious 'alu paratha'made with fresh vegies",
+      title: "Junner Bappa",
+      description: "Shivnery -Manacha Ganapati",
       isveg: true,
-      price: 110
+      price: 9110
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKt8ZqFLd4khkhFRKGJ3dhSqbogk2kTJC0w&s",
       title: " Nashik Bappa",
-      description: "yummy to test",
+      description: "Shree ganesh -Manacha Ganapati",
       isveg: true,
-      price: 100
+      price: 5500
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQkEr9MhcKu5BkK-iD5R1XUjtAT6NUKtHKyd4tWuAEXIj5gRNlT2OmVS49ZaZCvcQ0iY&usqp=CAU",
       title: "Ahmednagar Bappa",
-      description: "Delicious 'alu paratha'made with fresh vegies",
+      description: "Astavinayak Ganapati -Manacha Ganapati",
       isveg: false,
-      price: 150
+      price: 4500
     },
     {
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVT17Tm_sGtc1HQCQHdry930G-p6Q9iXC5N5aD677iv-HUCkcOcQCi6zvTm3be-eM0P38&usqp=CAU",
-      title: "Panner Bhaji",
-      description: "yummy to test delicious",
+      title: "Pune Bappa",
+      description: "DagaduSheth-Manacha Ganapati",
       isveg: true,
-      price: 160
+      price: 8160
     },
     {
       imgUrl: "https://cdn.togetherv.com/elegant-pink-ganpati-puja-decor-2_1661068032.webp",
-      title: "shevbhaji ",
-      description: "Delicious 'alu paratha'made with fresh vegies",
+      title: "Mumbai Bappa ",
+      description: "Dashmukh -Manacha Ganapati",
       isveg: true,
-      price: 110
+      price: 9110
     }
 ]
   

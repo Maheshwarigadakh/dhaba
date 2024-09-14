@@ -1,7 +1,7 @@
 import React from 'react'
 import "./FootCard.css"
-import VegIcon from "./icons8-veg-48.png"
-import nonvegIcon from "./icons8-non-veg-48.png"
+import VegIcon from "./icons8-man-firefighter-48.png"
+import nonvegIcon from "../FootCard/icons8-artificial-64.png"
 import { THEME } from './../../config/data'
 
 
