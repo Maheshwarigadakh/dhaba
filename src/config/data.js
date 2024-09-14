@@ -14,7 +14,7 @@ const PRODUCTS = [
       imgUrl: "https://rukminim2.flixcart.com/image/850/1000/poster/t/f/h/large-ganpati-3541-lord-ganpati-poster-original-imaerwcuuhgezqzz.jpeg?q=90&crop=false",
       title: "Satara Bappa",
       description: "Raja-Manacha Ganapati",
-      isveg: true,
+      isveg: false,
       price: 9100
     },
     {
@@ -28,7 +28,7 @@ const PRODUCTS = [
       imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7nPvFe-frb3zoyKw9BAQwJKbS33Dsi5mmA&s",
       title: "Yevala Bappa",
       description: "Lambodar -Manacha Ganapati",
-      isveg: true,
+      isveg: false,
       price: 7160
     },
     {
