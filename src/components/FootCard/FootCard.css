@@ -33,15 +33,3 @@
     object-fit: cover;
     border-radius: 10px;
 }
-.FC-btn{
-    background-color: yellow;
-    border-radius: 20px;
-    padding: 5px 20px;
-    display: block;
-    cursor: pointer;
-    margin: 0 auto;
-
-}
-.FC-btn:hover{
-    background-color: rgba(250, 224, 54, 0.8);
-}
